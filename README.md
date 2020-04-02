@@ -3,6 +3,8 @@ Following are the highlights of this project
 * The dataset ILPD (Indian Liver Patient Dataset) [1] comprises 583 instances with each having 10 features and 1 target variable. The dataset is used to classify if a patient, given a feature vector, has the Liver Disease or not (binary classification)
 * The predictive algorithms K-Nearest Neighbour is chosen for this task
 * Dataset is collect from the UCI machine learning repository
+Please read the blog post for the findings of the project.
+([Medium Blog Post](https://medium.com/@harsha.kumar3/indian-liver-patients-probabilistic-prediction-463bc9496ad9))
 
 ## Technologies
 * python
@@ -21,4 +23,4 @@ Following are the highlights of this project
 * pandas==0.23.1
 
 ## Reference
-* http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29
+* ([ILPD dataset](http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29))
