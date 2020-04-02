@@ -5,16 +5,20 @@ Following are the highlights of this project
 * Dataset is collect from the UCI machine learning repository
 
 ## Technologies
-* pyhton
-
-## Setup
-$ python 2 and above insatlled enivironments
+* python
 
 ## Requirments
-numpy==1.14.3
-shap==0.24.0
-scikit-learn==0.19.1
-lightgbm==2.1.1
-matplotlib==2.2.2
-seaborn==0.8.1
-pandas==0.23.1
+* Anaconda3 v4.0.0 64bit (Python v3.5.2)
+* IPython Notebook
+
+### Libraries
+* numpy==1.14.3
+* shap==0.24.0
+* scikit-learn==0.19.1
+* lightgbm==2.1.1
+* matplotlib==2.2.2
+* seaborn==0.8.1
+* pandas==0.23.1
+
+## Reference
+* http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29
